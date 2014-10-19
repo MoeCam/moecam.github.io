@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy
+title: 用户条款
 permalink: /privacy/
 ---
 
