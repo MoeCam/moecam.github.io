@@ -1,0 +1,12 @@
+# Site settings
+title: MoeCam.com
+email: 
+description: "MoeCam"
+baseurl: ""
+url: "http://www.moecam.com"
+twitter_username: 
+github_username: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
